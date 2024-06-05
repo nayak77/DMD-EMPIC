@@ -1,0 +1,30 @@
+=============== Offline Output results =================== 
+Relative 2-norm extrapolation error in current density (%) = 1.802036 
+Relative 2-norm (traditional) extrapolation error in current density (%) = 1.801990 
+Runtime: 11.752007 seconds
+ 
+=============== Offline DMD Parameters =================== 
+Snapshot taken at, n = 1600000, t = 64.000000 ns. 
+DMD window span (time samples), n_start = 1951, n_end = 2951 
+DMD window span (time in ns), t_start = 15.600000, t_end = 23.600000 
+DMD wndow width : 1000 = 8.000000 ns = (t1-t0) = 8.000000 ns 
+The DMD data replaced from timestep (EMPIC algo): N_end = 118001 , 
+Timesteps in dmd_data_dense (i.e. timesteps replaced) : 202001 
+Sampling interval : dT_offline = 40 = 8.000000 ps, dT_fac = 1 
+Rank(r) and number of modes(M) : r = 302 , M = 152 
+Number of shifts to cover one window : 20 
+Number of Hankel stacks (offline) : 80 
+Randomly chosen FFT points (in space) : 20 
+ 
+=============== Offline DMD Mode Information =================== 
+DMD mode 01 frequency f1 = 0.000000 GHz, energy = 49.316223 % 
+DMD mode 02 frequency f2 = 1.250032 GHz, energy = 28.990346 % 
+DMD mode 03 frequency f3 = 2.500017 GHz, energy = 12.389008 % 
+DMD mode 04 frequency f4 = 3.750028 GHz, energy = 5.305635 % 
+DMD mode 05 frequency f5 = 5.000123 GHz, energy = 2.148420 % 
+DMD mode 06 frequency f6 = 6.250025 GHz, energy = 0.901385 % 
+ 
+=============== EMPIC Simulation parameters =================== 
+Simulation time : n = 320001 , t = 64.000000 ns 
+Timestep interval : dt_int = 0.200000 ps 
+Sampling interval : dT_act = 40 = 8.000000 ps 
