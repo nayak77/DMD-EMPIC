@@ -12,6 +12,7 @@ This repository contains MATLAB codes related to the paper titled "Accelerating 
 This code relies on several MATLAB functions, all included in this repository.
 
 ## Data
+Data for oscillating electron beam:
 https://drive.google.com/file/d/11cP2x6ErvljTOhgoutYrIJT7_SIi8PUC/view?usp=drive_link
 
 ## Usage
